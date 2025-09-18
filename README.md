@@ -8,7 +8,7 @@ This event brings together researchers, developers, and enthusiasts to explore v
 ## Why to Participate?
 - Challenge your skills in AI security & privacy
 - Help uncover vulnerabilities in agentic systems
-- Collarbaote with researchers, engineers, and hackers
+- Collaborate with researchers, engineers, and hackers
 
 ## Schedule
 - Registration open: **NOW**, [here](https://www.eventbrite.ie/e/hackathon-on-generative-ai-red-teaming-tickets-1700782699839)
