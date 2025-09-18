@@ -6,7 +6,7 @@ Welcome to the Hackathon on Generative AI Red Teaming!
 This event brings together researchers, developers, and enthusiasts to explore vulnerabilities, test robustness, and improve the safety of agentic AI systems through red teaming exercises.
 
 ## Why to Participate?
-- Chalenge your skills in AI security & privacy
+- Challenge your skills in AI security & privacy
 - Help uncover vulnerabilities in agentic systems
 - Collarbaote with researchers, engineers, and hackers
 
