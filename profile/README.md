@@ -5,15 +5,16 @@
 Welcome to the Hackathon on Generative AI Red Teaming!
 This event brings together researchers, developers, and enthusiasts to explore vulnerabilities, test robustness, and improve the safety of agentic AI systems through red teaming exercises.
 
-## Why to Participate?
+## Why participate?
+- Learn about AI security 
 - Challenge your skills in AI security & privacy
 - Help uncover vulnerabilities in agentic systems
 - Collaborate with researchers, engineers, and hackers
 
 ## Schedule
 - Registration open: **NOW**, [here](https://www.eventbrite.ie/e/hackathon-on-generative-ai-red-teaming-tickets-1700782699839)
-- Kick-off: **Tuesday September 30th 2025**
-- Submission deadline: **Friday October 3rd 2025**
+- Kick-off: **Tuesday September 30th 2025** 9am ET
+- Submission deadline: **Friday October 3rd 2025** 11am ET
 
 ## Participation Guidelines
 - Open to individuals and teams of up to 5 members.
